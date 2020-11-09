@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nemoisme&show_icons=true&title_color=ff461f&text_color=999&icon_color=ff461f&bg_color=40,555,111)](https://github.com/nemoisme)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemoisme&&show_icons=true&title_color=ff461f&text_color=999&icon_color=ff461f&bg_color=40,555,111&layout=compact)](https://github.com/nemoisme)
+
+
