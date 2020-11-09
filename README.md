@@ -24,6 +24,3 @@ Here are some ideas to get you started:
 
 
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nemoisme&repo=el-validate-table&title_color=ff461f&text_color=999&icon_color=ff461f&bg_color=45,555,111)](https://github.com/nemoisme/el-validate-table)
-
